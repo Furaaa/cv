@@ -6,7 +6,7 @@ L'usuari que llegirà el nostre cv serà part del departament de recursos humans
 Llavors haurem de fer un disseny de cv que reflecteixi tot això.
 
 ## Arquitectura de la informació
-En el document organitzem la informació en dues columnes. A la columna de l'esquerra trobaríem la imatge de la persona junt amb un petit resum d'aquesta, les habilitats, llenguatges de programació dominats i informació de contacte. En la columna de la dreta hi posem l'experiència laboral i educació.
+El document esta dissenyat com a un full D4 per a semblar-se a un cv. En el document organitzem la informació en dues columnes. A la columna de l'esquerra trobaríem la imatge de la persona junt amb un petit resum d'aquesta, les habilitats, llenguatges de programació dominats i informació de contacte. En la columna de la dreta hi posem l'experiència laboral i educació.
 
 ## Diseny visual
 La principal idea darrera del diseny del cv és projectar serietat i maduresa relacionada amb el món del software. Totes les decissions de disseny que s'han prés han sigut per a mostrar als departaments de recursos humans una opció segura per a un fitxatge de l'empresa.
