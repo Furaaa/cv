@@ -37,3 +37,6 @@ El que s'ha intentat és mostrar la informació de la forma més visual possible
 
 # Enllaç de figma
 https://www.figma.com/file/qjjE9qKkilhIxZ2dryRiC3/Untitled?type=design&node-id=0%3A1&mode=design&t=o0AKI9GQFdlIVV00-1
+
+# Enllaç públic del cv
+https://furaaa.github.io/cv/
