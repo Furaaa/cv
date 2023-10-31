@@ -1,0 +1,245 @@
+*{
+    margin:0;
+}
+#plantilla{ 
+    padding-top: 10px;
+    width: 600px;
+    height: 840px;  
+    margin:auto;
+    color: #000000; 
+}
+
+
+
+#contenidor{
+    display: flex;
+}
+
+#block_esquerre{
+    width: 220px;
+    height: 840px;
+    flex-shrink: 0;
+    background: #1B263B;
+}
+
+#block_dret{
+    width: 380px;
+    height: 840px;
+    flex-shrink: 0;
+    background: #ECECEC;
+}
+
+
+
+#fons_imatge{
+    position: relative;
+    width: 180px;
+    height: 180px;
+    flex-shrink: 0;
+    top: 20px;
+    left: 20px;
+    background: #FFF;
+}
+
+#imatge{
+    position: relative;
+    width: 170px;
+    height: 170px;
+    flex-shrink: 0;
+    top: 5px;
+    left: 5px;
+}
+
+.titol_block_esquerra{
+    position: relative;
+    font-family: 'JetBrains Mono','Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: #FFF;
+    left: 20px;
+}
+
+.text_block_esquerra{
+    color: #FFF;
+    font-family: 'JetBrains Mono', Verdana,'Trebuchet MS', Arial, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.llista_esquerra{
+    color: white;
+}
+#titol_sobre_mi{
+    top: 36px;
+}
+
+#text_sobre_mi{
+    position: relative;
+    width: 187px;
+    height: 178px;
+    flex-shrink: 0;
+    left: 20px;
+    top: 40px;
+}
+
+#habilitats{
+    position: relative;
+    top: 20px;
+}
+
+#contenidor_habilitats{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    left: 20px;
+    width: 187px;
+}
+
+.text_habilitats{
+    background-color: #A6BCD7;
+    color: #0f3258;
+    border-radius: 10px;
+    font-family: 'JetBrains Mono', Verdana,'Trebuchet MS', Arial, sans-serif;
+    font-size: 12px;
+    padding-left: 4px;
+    padding-right:4px;
+    padding-bottom: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#llenguatges{
+    position: relative;
+    top: 50px;
+}
+
+#contacte{
+    position: relative;
+    top: 80px;
+}
+
+#text_contacte{
+    position: relative;
+    top: 5px;
+    left: 20px;
+}
+
+#titol_nom{
+    position: relative;
+    top: 35px;
+    left: 30px;
+    width: 279px;
+    height: 170px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Epilogue,'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#subtitol{
+    color: #353535;
+    font-family: 'JetBrains Mono','Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.titol_block_dret{
+    display: flex;
+    width: 310px;
+    height: 40px;
+    flex-shrink: 0;
+    background: #A6BCD7;
+    font-family: 'JetBrains Mono','Trebuchet MS', sans-serif;
+    color: #0f3258;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    justify-content: center;
+    align-items: center;
+}
+
+#block_experiencia_laboral{
+    width: 310px;
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+
+.block_intern_exp_lab{
+    position: relative;
+    width: 290px;
+    left: 10px;
+    top: 20px;
+}
+
+.titol_intern{
+    color: #000;
+    font-family: 'JetBrains Mono','Trebuchet MS', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.periode_exp_lab{
+    color: #000;
+    font-family: 'JetBrains Mono','Trebuchet MS', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.explicacio_exp_lab{
+    color: #000;
+    font-family: 'JetBrains Mono',Verdana, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.spacer{
+    height: 20px;
+}
+
+.exp_lab_2{
+    position: relative;
+    top: 10px;
+}
+
+#block_educacio{
+    width: 310px;
+    position: relative;
+    left: 30px;
+    top: 90px;
+}
+
+#block_intern_educacio{
+    position: relative;
+    width: 290px;
+    left: 10px;
+    top: 20px;
+}
+
+.lloc_eduacio{
+    color: #000;
+    font-family: 'JetBrains Mono',Verdana, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
